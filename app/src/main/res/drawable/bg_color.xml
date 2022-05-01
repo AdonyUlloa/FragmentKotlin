@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    //Creamos un fondo que es degradado para poder usarlo en nuestro proyecto
+    <gradient
+        android:angle="90"
+        android:centerColor="#175381"
+        android:endColor="#103b5c"
+        android:startColor="#3C7498"
+        />
+
+</shape>

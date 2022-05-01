@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragment Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calendario_ugb">Calendario UGB</string>
+    <string name="himno_ugb">Himno UGB</string>
+    <string name="notas_ugb">Notas UGB</string>
+    <string name="informaci_n">Información</string>
+    <string name="desarrolladores">Desarrolladores</string>
+    <string name="contacto_us">Contacto Us</string>
+    <string name="derechos_reservados_ugb_2022">Derechos reservados UGB 2022</string>
+    <string name="edwin_adony_ulloa_diaz">Edwin Adony Ulloa Diaz</string>
+    <string name="smis001721_ugb_edu_sv">smis001721@ugb.edu.sv</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
